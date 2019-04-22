@@ -1,2 +1,2 @@
 # classified-texts
-Examples of classified text
+This repository contains a few examples of classified text.
